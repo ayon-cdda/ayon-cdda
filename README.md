@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/a2111e75-6612-4543-9035-6d3cec3fac18.jpeg?v=1788665596)](https://www.boot.dev/certificates/a2111e75-6612-4543-9035-6d3cec3fac18)
 
 <!--
 **ayon-cdda/ayon-cdda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
