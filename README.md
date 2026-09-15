@@ -1,5 +1,6 @@
 ## Hi there 👋
 [![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/a2111e75-6612-4543-9035-6d3cec3fac18.jpeg?v=1788665596)](https://www.boot.dev/certificates/a2111e75-6612-4543-9035-6d3cec3fac18)
+[![Boot.dev Learn SQL certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/88700699-7e83-4b97-b126-4997c3c4f91f.jpeg?v=1789449489)](https://www.boot.dev/certificates/88700699-7e83-4b97-b126-4997c3c4f91f)
 
 <!--
 **ayon-cdda/ayon-cdda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
